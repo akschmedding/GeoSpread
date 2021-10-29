@@ -1,0 +1,6 @@
+residence
+medical
+work_rec
+worship
+work_essential
+rec_night
