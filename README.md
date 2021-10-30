@@ -1,3 +1,7 @@
+# GeoSpread
+
+GeoSpread is an extended version of [GeoMason](https://cs.gmu.edu/~eclab/projects/mason/extensions/geomason/) for COVID-19 spread.
+
 # Requisite
 
 Mason: Please put the jar files in the classpath.  https://cs.gmu.edu/~eclab/projects/mason/
